@@ -1,4 +1,4 @@
-# 🌦️ Weather Logger – Task 2 (Consid Recruitment Task)
+# 🌦️ Weather Logger 
 
 A weather data logging system that fetches weather information for selected cities using the OpenWeather API and displays temperature trends using charts. The backend is built with ASP.NET Core and the frontend with React + TypeScript + Chart.js.
 
